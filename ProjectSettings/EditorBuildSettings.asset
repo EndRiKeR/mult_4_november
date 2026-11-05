@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Lesson/Scenes/01_Connect.unity
+    guid: 6454016939d4d24418f66f4f85e99350
+  - enabled: 0
+    path: Assets/Lesson/Scenes/02_Crystals.unity
+    guid: 19d57a0a77addae419c603c096dcc47f
+  - enabled: 1
+    path: Assets/Lesson/Scenes/03_Sessions.unity
+    guid: f0251b220dfc94245868a7185cc4b729
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
